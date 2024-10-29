@@ -37,7 +37,7 @@ def plot_composition(composition):
     plt.show()
 
 plot_composition(composition)
-No description has been provided for this image
+![image](https://github.com/user-attachments/assets/0eb679a2-f549-4dc0-bd19-85a4d8f68d02)
 # Function to find ORFs
 def find_orfs(sequence, min_length=100):
     orfs = []
